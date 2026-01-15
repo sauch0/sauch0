@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 <img src="https://github.githubassets.com/images/mona-whisper.gif" />
 
@@ -11,6 +11,9 @@
   </a>
   :hatched_chick:
 </p>
+<p>
+ 🌱 Currently learing <b>React.js</b> and <b>Backend Systems</b> with Java
+</p>
 
 <table>
   <tr>
@@ -22,10 +25,6 @@
       <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/webdev-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Web Dev" />
     </td>
-  </tr>
-  <tr>
-    <td align="center">🌱 <b>Focus</b></td>
-    <td>Currently learing <b>React.js</b> and <b>Backend Systems</b> with Java</td> 
   </tr>
 </table>
 
