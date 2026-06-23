@@ -6,14 +6,12 @@
   I'm <em>Saumya</em>, 💬
   seeking new <em>Opportunities and learning</em>! 🌱
   feel free to 
-  <a target="_blank" href="https://www.instagram.com/xyyzzzz1_/?hl=en">
+  <a target="_blank" href="mailto:chitrakarsaumya@gmail.com">
     reach me
   </a>
   :hatched_chick:
 </p>
-<p>
- 🌱 Currently learing <b>React.js</b> and <b>Backend Systems</b> with Java
-</p>
+
 
 <table>
   <tr>
