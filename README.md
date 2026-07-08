@@ -3,7 +3,7 @@
 <img src="https://github.githubassets.com/images/mona-whisper.gif" />
 
 <p>
-  I'm <em>Saumya</em>, 💬
+  I'm <em>Saumya Chitrakar</em>, 💬
   seeking new <em>Opportunities and learning</em>! 🌱
   feel free to 
   <a target="_blank" href="mailto:chitrakarsaumya@gmail.com">
