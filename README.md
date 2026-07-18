@@ -37,10 +37,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sauch0&show_icons=true&theme=default&hide_border=true" alt="Saumya's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauch0&layout=compact&hide_border=true" alt="Top languages" height="165"/>
-</p>
 
 <!--
 **sauch0/sauch0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
