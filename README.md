@@ -1,15 +1,49 @@
-# Hey, I'm Saumya 👋
-<br>
-<img src="https://github.githubassets.com/images/mona-whisper.gif" width="120" align="right" />
-<br>
-**BCA student • Full-Stack Developer**
+## Hi there 👋
 
-I'm a final-year **BCA student at Mega National College, Tribhuvan University**
-in Lalitpur, Nepal.
+<img src="https://github.githubassets.com/images/mona-whisper.gif" />
 
-Currently, I'm interning at **Mercy Technologies**, working with
-**React, TypeScript, Node.js, Express.js, and MySQL**.
+<p>
+  I'm <em>Saumya Chitrakar</em> 💬<br>
+  currently learning, building, and growing as a developer! 🌱<br>
+  Always open to new <em>opportunities and interesting projects</em>.
+</p>
 
-- 🔭 Building things and learning along the way
-- 💻 Currently focused on full-stack web development
-- 📍 Lalitpur, Nepal
+* 🔭 I'm currently interning at **Mercy Technologies**, working with **React, TypeScript, Node.js, Express.js, and MySQL**
+* 🌱 Currently exploring **full-stack web development** and improving my software developing skills
+* 📫 How to reach me: [chitrakarsaumya@gmail.com](mailto:chitrakarsaumya@gmail.com)
+* 🎓 Final-year BCA student at **Mega National College, Tribhuvan University**, Lalitpur, Nepal
+
+<table>
+  <tr>
+    <td align="center">⚡ <b>Tech Stack</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">🌐 <b>Find me</b></td>
+    <td>
+      <a href="https://saumya1.com.np" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+      </a>
+      <a href="https://www.linkedin.com/in/saumya-chitrakar-8b2b1b383/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+      <a href="mailto:chitrakarsaumya@gmail.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!--
+**sauch0/sauch0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
