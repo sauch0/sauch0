@@ -10,9 +10,9 @@
   :hatched_chick:
 </p>
 
-- 🔭 I'm currently interning at **Mercy Technologies**, working on **React + TypeScript**
+- 🔭 I'm currently interning at **Mercy Technologies**, working with **Tech Stack: React, TypeScript, Node.js, Express.js, MySQL**
 - 📫 How to reach me: [chitrakarsaumya@gmail.com](mailto:chitrakarsaumya@gmail.com)
-- 🎓 Final-year BCA student at Mega National College, Tribhuvan University — Lalitpur, Nepal
+- 🎓 Final-year BCA student at Mega National College, Tribhuvan University, Lalitpur, Nepal
 
 <table>
   <tr>
