@@ -1,6 +1,6 @@
-# Hey, I'm Saumya 👋
+# Hello, I'm Saumya 👋
 
-**BCA student • Full-Stack Developer • Always learning**
+**BCA student • Full-Stack Developer**
 
 I'm a final-year **BCA student at Mega National College, Tribhuvan University** in Lalitpur, Nepal, currently turning coffee ☕ into code and learning something new every day.
 
@@ -38,8 +38,6 @@ Database       → MySQL
 Other languages → Java, PHP
 Environment    → Linux
 ```
-
-I'm especially interested in **full-stack development**, clean code, and understanding how things work beyond just making them "work."
 
 ### 🌐 Find me around the internet
 
